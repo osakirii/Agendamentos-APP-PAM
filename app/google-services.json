@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68321207824",
+    "project_id": "app-agendamentos-6191e",
+    "storage_bucket": "app-agendamentos-6191e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68321207824:android:137f9be75d2a50a1860c95",
+        "android_client_info": {
+          "package_name": "com.example.appaula"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdlr2vGTLDFp92T3jaQH1sbCbo-XkFTPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
